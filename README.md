@@ -10,6 +10,8 @@ This will be linked to your container and will be installed and tested. You will
 environment variables in the compose file. 
 Emulators used is a csv list of emulators to start up during the initial phase.
 
+Based on an work from Rowan Lawrence.
+
 #### Env sample
 
 ```dotenv
